@@ -1,3 +1,24 @@
-# Disponível em: 
+# Vue.js do Jeito Ninja
 
-[Vue.js do jeito ninja](https://www.youtube.com/playlist?list=PLcoYAcR89n-qq1vGRbaUiV6Q9puy0qigW)
+Primeiros passos com Vue.js.
+
+---
+
+## 📑 Conceitos
+
+- Directives
+- Forms
+- Styling
+- Events
+- Lifecycle
+- Components
+- Axios
+- Animations
+- Routes
+- Vue CLI
+
+---
+
+## 👀 Prévia
+
+![Formulário](./preview.png)

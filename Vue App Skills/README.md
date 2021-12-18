@@ -1,3 +1,20 @@
-# Available at
+# Vue App Skills
 
-[Vue Tutorial in 2018 - Learn Vue.js by Example](https://coursetro.com/courses/23/Vue-Tutorial-in-2018---Learn-Vue.js-by-Example)
+A simple app for managing personal skills.
+
+---
+
+## 📑 Concepts
+
+- Components
+- Templating
+- Styling
+- Forms
+- Animation
+- Routing
+
+---
+
+## 👀 Preview
+
+![Vue App Skills](./preview.png)
